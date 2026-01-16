@@ -1,2 +1,2 @@
 python-telegram-bot==20.7
-requests==2.31.0  # solo si tu CheckerProvider hace llamadas HTTP a Apiverve
+requests==2.31.0
